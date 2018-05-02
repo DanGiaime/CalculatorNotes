@@ -82,10 +82,10 @@ _~RRAM_
 
 **Things TO do**
 
-- ** DO**use // in place of an integral symbol
-- ** DO**use 0 in place of a theta symbol
-- ** DO**use ( ) in formulas. It is difficult to read thing in the calculator at times, so ( ) help to keep everything clear.
-- ** DO**rganize your information. Keep everything where it should be, don&#39;t just lazily throw the info out there. You will be timed and the ability to quickly and easily get to the information you need is essential.
-- ** DO**keep things concise. The less you have to say to get the point across, the better. Again, you will be timed, and using abbreviations and keeping definitions simple will help to ensure that your program use is quick and efficient.
-- ** DO ****HAVE A TITLE!!!** Without a title, your program will not Compile. This title should be short, no more than 16 characters as stated before, but is entirely necessary. The first line of your outline should be this title with no ~ prior.
-- ** DO USE NOTEPAD TO MAKE YOUR OUTLINE!!!** The tool uses .txt files, not .doc or .docx. Use notepad to create a simple .txt outline.
+- **DO** use // in place of an integral symbol
+- **DO** use 0 in place of a theta symbol
+- **DO** use ( ) in formulas. It is difficult to read thing in the calculator at times, so ( ) help to keep everything clear.
+- **DO** organize your information. Keep everything where it should be, don&#39;t just lazily throw the info out there. You will be timed and the ability to quickly and easily get to the information you need is essential.
+- **DO** keep things concise. The less you have to say to get the point across, the better. Again, you will be timed, and using abbreviations and keeping definitions simple will help to ensure that your program use is quick and efficient.
+- **DO HAVE A TITLE!!!** Without a title, your program will not Compile. This title should be short, no more than 16 characters as stated before, but is entirely necessary. The first line of your outline should be this title with no ~ prior.
+- **DO** USE NOTEPAD TO MAKE YOUR OUTLINE!!!** The tool uses .txt files, not .doc or .docx. Use notepad to create a simple .txt outline.
