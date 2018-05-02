@@ -47,7 +47,7 @@ _~~~(LRAM+RRAM)/2 Underapprox when function is concave down, Overapprox when fun
 - To denote a main menu option, begin with one ~ before the title of that heading. In this case, I wanted &quot;_Series_&quot; and &quot;_Reimann Sums_&quot; to be visible upon first opening the program, so those sections have one ~
 - To denote a subheading, place one more ~ than the heading it is under. In this case, I wanted the option &quot;_Sin(x)_&quot; to be under &quot;_Series_&quot; so &quot;_Sin(x)_&quot; has two ~~, because &quot;_Series&quot;_ had one.
 - To denote the final piece of information, simply perform the previous step, and put no subheadings underneath it. In this case, &quot;_x - (x^3)/(3!) + (x^5)/(5!) + ... + (x^(2n-1)) / (2n-1!)&quot;_ has three ~, and there is nothing below it with four ~, meaning it must be the last possible option. So, when &quot;_Sin(x)_&quot; is clicked,  &quot;_x - (x^3)/(3!) + (x^5)/(5!) + ... + (x^(2n-1)) / (2n-1!)&quot;_ will display, and the program will end.
-- ** \*\*Check the next page for important notes on what kinds of characters/sentences will and will not work in the calculator.\*\***
+- \*\***Check the next page for important notes on what kinds of characters/sentences will and will not work in the calculator.**\*\*
 
 **Things NOT to do**
 
@@ -68,7 +68,7 @@ _~RRAM_
 
 _~~Sum y(deltax) using the y of the right point for each value. Overapprox when function is decreasing, Underapprox when funciton is increasing._
 
-- ** This program can not logically run, as the &quot; ****LRAM&quot;**  **section is attempting to make a menu of one item, which is unnecessary. One would first click on &quot;**** Reimann sums ****&quot;**** , **** then on &quot; ****LRAM&quot;**** , at which point we can see the problem. Since there is no other item with three ~, there is no menu, so the subheading underneath &quot;****Sum y(deltax) using the y of the left point for each value. &quot;**  **is unnecessary and will not run, causing the tool not to work.**
+- **This program can not logically run, as the &quot; LRAM&quot  section is attempting to make a menu of one item, which is unnecessary. One would first click on &quot; Reimann sums &quot; ,  then on &quot; LRAM&quot; , at which point we can see the problem. Since there is no other item with three ~, there is no menu, so the subheading underneath &quot;Sum y(deltax) using the y of the left point for each value. &quot; is unnecessary and will not run, causing the tool not to work.**
 - Similarly, do **NOT** make empty menu options. For example, see the program below.
 
 _Reimann Sums_
