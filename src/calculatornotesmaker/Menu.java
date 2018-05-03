@@ -22,8 +22,8 @@ public class Menu {
 
     public Menu(String[] source, int label) {
         myLabel = label;
-        myLevel = source[0].lastIndexOf("-") + 1;
-        myTitle = source[0].replace("-", "");
+        myLevel = source[0].lastIndexOf("~") + 1;
+        myTitle = source[0].replace("~", "");
         mySource = source;
         determineSubheadingLocations();
         if (mySubheadingLocations.size() > 0) {
@@ -36,7 +36,7 @@ public class Menu {
         mySubheadingLocations = new ArrayList<>();
         if (mySource.length > 1) {
             for (int i = 1; i < mySource.length; i++) {
-                if ((mySource[i].lastIndexOf("-")) == myLevel) {
+                if ((mySource[i].lastIndexOf("~")) == myLevel) {
                     //^^IF(The current line has one more hyphen than the title){It is a subheading}
                     mySubheadingLocations.add(i);
                 }
