@@ -1,0 +1,23 @@
+Circuits
+~EMF
+~~E=dW/dq
+~~Loop Rule
+~~~The sum of changes in pot. in a complete loop = 0
+~~Junction Rule
+~~~Current in=current out
+~~Resistance Rule
+~~~Going direction of current-->drop of iR
+~~EMF rule
+~~~Going direction as EMF-->gain of E
+~Galvanometer
+~~To make an ammeter
+~~~Connect a low resistance in parallel
+~~To make a voltmeter
+~~~Connect a large resistance in series
+~Cap w/ one resistor
+~~Step 1
+~~~Loop Rule
+~~Charging
+~~~q(t)= CE(1-e^(-t/RC)
+~~Discharing
+~~~q(t)= q*e^(-t/RC)
