@@ -1,0 +1,30 @@
+E-Potential
+~Work
+~~DeltaV
+~~~-U=W=qDeltaV
+~~Equipotential
+~~~Work=0 along a line
+~~Charged Sphere
+~~~Pot in=Pot on surface
+~~E-Field and V
+~~~Ecos0=-dV/ds --> Partial derivatives
+~Potential due to...
+~~Electric Dipole
+~~~Step1
+~~~~V=k(q/r(pos) - q/r(neg))
+~~~End result
+~~~~V=k(pcos0/r^2)
+~~~Notes
+~~~~r(neg)-r(plus) approx=dcos0
+~~Continuous Charge
+~~~V=k //dq/r
+~~Line of Charge
+~~~Step 1
+~~~~dV= kdq/r=k(lambda dx)/ rad(x^2+d^2)
+~~~Equation
+~~~~V=(lambda/k) ln((L+ rad(L^2+d^2)) /d)
+~~Charged Disk
+~~~Step 1
+~~~~dV=k sigma(2pi Ro)(dRo) /rad(z^2+Ro^2)
+~~~Equation
+~~~~(sigma/2Eo) rad(z^2+R^2))-z
